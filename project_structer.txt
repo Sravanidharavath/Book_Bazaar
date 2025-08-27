@@ -1,0 +1,58 @@
+src/
+├── App.css
+├── App.jsx
+├── index.css
+├── main.jsx
+
+├── components/
+│   ├── About.jsx
+│   ├── Banner.jsx
+│   ├── Blog.jsx
+│   ├── BookCard.jsx
+│   ├── Cart.jsx
+│   ├── Login.jsx
+│   ├── MyFooter.jsx
+│   ├── Navbar.jsx
+│   ├── Signup.jsx
+│   └── SingleBook.jsx
+
+├── context/
+│   └── CartContext.jsx
+
+├── contects/         ⬅️ (Possibly a typo — should this be `contexts/` or `auth/`?)
+│   └── AuthProvider.jsx
+
+├── dashboard/
+│   ├── Dashboard.jsx
+│   ├── DashboardLayout.jsx
+│   ├── EditBooks.jsx
+│   ├── ManageBooks.jsx
+│   ├── SlideBar.jsx
+│   ├── UpdateBook.jsx
+│   └── Users.jsx
+
+├── firebase/
+│   └── firebase.config.js
+
+├── home/
+│   ├── BannerCard.css
+│   ├── BannerCard.jsx
+│   ├── BestSellBooks.jsx
+│   ├── FavBook.jsx
+│   ├── Home.jsx
+│   ├── OtherBooks.jsx
+│   ├── PromoBanner.jsx
+│   └── Review.jsx
+
+├── pages/
+│   └── Checkout.jsx
+
+├── PrivateRoute/
+│   └── PrivateRoute.jsx
+
+├── routers/
+│   └── router.jsx
+
+├── shop/
+│   ├── Shop.jsx
+│   └── SingleBook.jsx
