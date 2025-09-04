@@ -13,7 +13,7 @@
     "@reduxjs/toolkit": "^2.8.2",
     "axios": "^1.10.0",
     "firebase": "^11.10.0",
-    "flowbite": "^2.5.2",
+    "flowbite": "2.2.1",
    "flowbite-react": "0.7.5",
 
     "localforage": "^1.10.0",
